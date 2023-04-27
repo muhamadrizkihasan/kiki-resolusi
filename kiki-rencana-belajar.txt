@@ -4,6 +4,8 @@ Rencana Belajar KIKI
    * AJAX
    * JSON
    * JQUERY
+   * Framework
+      ^ React
 - CSS Framework
    ^ Bootstrap
 - Git
