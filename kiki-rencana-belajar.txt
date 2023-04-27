@@ -5,10 +5,8 @@ Rencana Belajar KIKI
    * JSON
    * JQUERY
    * Framework
-      ^ React
 - CSS Framework
    ^ Bootstrap
 - Git
 - PHP Framework
    ^ Laravel
-- Phyton
