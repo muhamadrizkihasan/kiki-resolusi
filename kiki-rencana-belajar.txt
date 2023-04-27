@@ -1,0 +1,6 @@
+Rencana Belajar KIKI
+- CSS
+- Javasript
+- CSS Framework
+- Git
+- PHP Framework
