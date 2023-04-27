@@ -7,3 +7,4 @@ Rencana Belajar KIKI
 - CSS Framework
 - Git
 - PHP Framework
+- Phyton
